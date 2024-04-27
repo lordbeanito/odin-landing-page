@@ -61,13 +61,13 @@ a:hover, a:active {
 
 .sign-up-button {
     background-color: #3882f6;
-    padding: 12px;
     flex-grow: 0;
 }
 
 button {
     background-color: #3882f6;
     color: #f9faf8;
+    padding: 12px;
     width: 85px;
     border-radius: 4px;
 }
